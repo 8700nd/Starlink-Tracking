@@ -1,2 +1,2 @@
 # Starlink-Tracking
-![](starlink-tracking)
+![](starlink-tracking.gif)
