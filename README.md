@@ -8,4 +8,4 @@
 
 • Animated selected satellite paths on a world map using D3 to improve visualization.
 
-![](starlink-tracking.gif)
+<img src="starlink-tracking.gif" width="1280" height="720" />
